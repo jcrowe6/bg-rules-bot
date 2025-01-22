@@ -1,4 +1,3 @@
-import torch
 import os
 from sentence_transformers import SentenceTransformer, util
 
